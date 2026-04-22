@@ -7,8 +7,8 @@ Deep Learning (MLP, CNN, ResNet)
 Computer Vision (MNIST, medical image classification, YOLO)
 End-to-end ML pipelines (EDA → preprocessing → modeling → evaluation)
 Real-world datasets and Kaggle competitions
-📁 Projects Included
-🧠 Deep Learning & Neural Networks
+Projects Included
+Deep Learning & Neural Networks
 MLP and Backpropagation
 Implemented a Multilayer Perceptron from scratch
 Manually implemented backpropagation and gradient descent
@@ -21,12 +21,12 @@ Binary Classification with ResNet
 Applied transfer learning using ResNet architecture
 Performed binary image classification
 Worked on medical imaging dataset (Histopathologic Cancer Detection)
-👁️ Computer Vision
+Computer Vision
 YOLO Object Detection Project
 Implemented IoU (Intersection over Union)
 Applied YOLO model for object detection in videos
 Worked on real-time detection pipeline
-📊 Classical Machine Learning
+Classical Machine Learning
 Housing Price Prediction (Multiple Datasets)
 Data preprocessing and exploratory data analysis (EDA)
 Feature engineering and model tuning
@@ -37,11 +37,11 @@ Data cleaning and feature transformation
 Phone Dataset
 Classification model development
 Feature engineering and evaluation
-🧪 Additional Work
+Additional Work
 Vache_Harutyunyan.ipynb
 Homework / experimental ML notebook
-🧰 Technologies Used
-Python 🐍
+Technologies Used
+Python 
 NumPy, Pandas
 Scikit-learn
 TensorFlow / Keras
